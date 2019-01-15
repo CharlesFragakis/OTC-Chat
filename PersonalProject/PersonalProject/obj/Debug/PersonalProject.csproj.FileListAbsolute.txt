@@ -1,0 +1,7 @@
+D:\Bootcamp\GitKraken\MyFirstRepository\PersonalProject\PersonalProject\bin\Debug\PersonalProject.exe.config
+D:\Bootcamp\GitKraken\MyFirstRepository\PersonalProject\PersonalProject\bin\Debug\PersonalProject.exe
+D:\Bootcamp\GitKraken\MyFirstRepository\PersonalProject\PersonalProject\bin\Debug\PersonalProject.pdb
+D:\Bootcamp\GitKraken\MyFirstRepository\PersonalProject\PersonalProject\obj\Debug\PersonalProject.csprojAssemblyReference.cache
+D:\Bootcamp\GitKraken\MyFirstRepository\PersonalProject\PersonalProject\obj\Debug\PersonalProject.csproj.CoreCompileInputs.cache
+D:\Bootcamp\GitKraken\MyFirstRepository\PersonalProject\PersonalProject\obj\Debug\PersonalProject.exe
+D:\Bootcamp\GitKraken\MyFirstRepository\PersonalProject\PersonalProject\obj\Debug\PersonalProject.pdb
